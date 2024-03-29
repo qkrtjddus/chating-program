@@ -1,0 +1,3 @@
+- 이클립스 src폴더에 chatting 폴더를 통째로 드래그앤드랍 (끌어다놓기)
+1. chatServer.java 먼저실행
+2.  chatClient.java 두번째 실행
